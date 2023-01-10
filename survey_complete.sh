@@ -1,5 +1,4 @@
 #!/bin/bash
 
-EXAMCODE=mischevous nematode subway quinoa ffaa3d
-
+EXAMCODE=590309075
 echo ${EXAMCODE}
