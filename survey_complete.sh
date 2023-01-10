@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=mischevous nematode subway quinoa ffaa3d
 
 echo ${EXAMCODE}
